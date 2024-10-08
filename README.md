@@ -1,6 +1,6 @@
 # Supporting materials for "Get rich quick: exact solutions reveal how unbalanced initializations promote rapid feature learning"
 
-This repository contains code for generating figures in the paper titled "Get rich quick: exact solutions reveal how unbalanced initializations promote rapid feature learning."
+This repository contains code generating figures in the NeurIPS 2024 Spotlight paper titled "Get rich quick: exact solutions reveal how unbalanced initializations promote rapid feature learning".
 
 You can access the [full paper](https://arxiv.org/abs/2406.06158) on arXiv.
 
